@@ -8,6 +8,8 @@
 ## Lists
 
 ## Pictures
+Чтобы ставить изображение в текст достаточно написать следующее ![Привет! Это тефтелька](zhaket-shanel-dlja-pozhilyh-dam-5.jpeg)
+
 
 ## Tables
 
